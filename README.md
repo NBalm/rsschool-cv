@@ -1,2 +1,2 @@
 # rsschool-cv
-https://NatalliaBalmatkova.github.io/rsschool-cv/cv
+https://NBalm.github.io/rsschool-cv/cv
